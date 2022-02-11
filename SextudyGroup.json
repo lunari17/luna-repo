@@ -1,0 +1,17 @@
+{
+  "title": "Sextudy Group",
+  "description": "",
+  "artist": "Abio4",
+  "author": "Bangkki",
+  "cover": "https://i.imgur.com/DenGksv.png",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "",
+      "last_updated": "1644581794",
+      "groups": {
+        "Luna": "/proxy/api/imgur/chapter/TT8gA3h"
+      }
+    }
+  }
+}
