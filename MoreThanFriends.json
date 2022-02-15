@@ -6,7 +6,7 @@
   "cover": "https://i.imgur.com/PDVyAzk.png",
   "chapters": {
     "29": {
-      "title": "Chapter 29 [Re-edited]",
+      "title": "Chapter 29",
       "volume": "0",
       "last_updated": "1644483557",
       "groups": {
@@ -14,7 +14,7 @@
       }
     },
     "30": {
-      "title": "Chapter 30 [Re-edited]",
+      "title": "Chapter 30",
       "volume": "0",
       "last_updated": "1644483808",
       "groups": {
@@ -22,7 +22,7 @@
       }
     },
     "31": {
-      "title": "Chapter 31 [Re-edited]",
+      "title": "Chapter 31",
       "volume": "0",
       "last_updated": "1644483728",
       "groups": {
@@ -59,6 +59,14 @@
       "last_updated": "1643977390",
       "groups": {
         "Luna": "/proxy/api/imgur/chapter/vyRDIo5"
+      }
+    },
+    "36": {
+      "title": "Chapter 36",
+      "volume": "0",
+      "last_updated": "1644893043",
+      "groups": {
+        "Luna": "/proxy/api/imgur/chapter/2AgEZDI"
       }
     }
   }
