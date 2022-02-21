@@ -36,6 +36,30 @@
       "groups": {
         "Luna": "/proxy/api/imgur/chapter/giXigSi"
       }
+    },
+    "5": {
+      "title": "Chapter 5",
+      "volume": "",
+      "last_updated": "1645428166",
+      "groups": {
+        "Luna": "/proxy/api/imgur/chapter/xoVkEuQ"
+      }
+    },
+    "6": {
+      "title": "Chapter 6",
+      "volume": "",
+      "last_updated": "1645428177",
+      "groups": {
+        "Luna": "/proxy/api/imgur/chapter/FnEsXQ1"
+      }
+    },
+    "7": {
+      "title": "Chapter 7",
+      "volume": "",
+      "last_updated": "1645428187",
+      "groups": {
+        "Luna": "/proxy/api/imgur/chapter/MPnq38s"
+      }
     }
   }
 }
