@@ -1,8 +1,17 @@
 {
   "title": "Phone Sex (English, Luna)",
-  "description": "",
+  "description": "\"I think i've heard that voice before\". Jin Woo-sung, a securities firm salesman who relieves his stress and loneliness from work with phone sex. On a date for the first time in a while, he meets a stunning woman and gets to enjoy the rosy life. But oddly enough, her voice sounds somewhat familiar. No way?",
   "artist": "5iron",
   "author": "Shrinel",
   "cover": "https://i.imgur.com/7LIYOQh.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1649099417",
+      "groups": {
+        "Luna": "/proxy/api/imgur/chapter/iA7WOuk"
+      }
+    }
+  }
 }
