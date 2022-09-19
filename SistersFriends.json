@@ -298,7 +298,16 @@
       "volume": "",
       "last_updated": "1663242292",
       "groups": {
-        "Luna": "/proxy/api/imgur/chapter/NckIBsV"
+        "Luna": [
+          "https://drive.google.com/uc?export=view&id=1eSyCYZnHaJlF4eI_RmEf7Se_NbQMTish",
+          "https://drive.google.com/uc?export=view&id=1vYrYjZnSG5FrMsX99LkgKkvkcDWaHjC_",
+          "https://drive.google.com/uc?export=view&id=1z3b6fmmHcpAk9SqrbeReg4wUy28XmtIi",
+          "https://drive.google.com/uc?export=view&id=1KRYXHhPZ5o6qbSycw-gbuJJJpnK4yXaq",
+          "https://drive.google.com/uc?export=view&id=1Z5XLXFRmFmeKEni_OLvSyrz4nwm59g0p",
+          "https://drive.google.com/uc?export=view&id=13CpvPS5wm7tMsXI5Sd7-Ih1YbWXF8S7T",
+          "https://drive.google.com/uc?export=view&id=1YMy1Q-JYkirZcNLtVA2_0nwvGzl-nwRY",
+          "https://drive.google.com/uc?export=view&id=1eybTypItK1USMHV8VUwE5UpU-nlWaQ_u"
+        ]
       }
     }
   }
