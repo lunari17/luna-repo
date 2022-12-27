@@ -1,0 +1,19 @@
+{
+  "title": "testrepo",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1672126403",
+      "groups": {
+        "x": [
+          "https://www.dropbox.com/s/ukdc5yobrcwvu3x/01.png?dl=0"
+        ]
+      }
+    }
+  }
+}
