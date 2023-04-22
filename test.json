@@ -1,0 +1,19 @@
+{
+  "title": "test",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1682185793",
+      "groups": {
+        "": [
+          "https://sat02pap004files.storage.live.com/y4mHuXzWXjkvJ4pPCUxmX6MC3njSPBP_Yc0x5zRmpT5e-D0hh1FcIf0lcp1MtUT8M4kJDikxf_2SgaEelcc-UkxW0J5iTc08pdHQWKg_Y3CEuns6_j_l5p8vftZFwBORg3nBjtrxfVHyL1g-klbr6IsnaeN-o4t2x0BkU_sAs-0AIqAodT00L08H3t2o5sNKjzo?width=720&height=14865&cropmode=none"
+        ]
+      }
+    }
+  }
+}
