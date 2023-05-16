@@ -10,7 +10,20 @@
       "volume": "",
       "last_updated": "1643908178",
       "groups": {
-        "Luna": "/proxy/api/imgur/chapter/SeRbSaT"
+        "Luna": [
+          "https://www.dropbox.com/s/hyhi27p0fbcwj1m/01.jpg?raw=1",
+          "https://www.dropbox.com/s/8286so09cjd2ivi/02.jpg?raw=1",
+          "https://www.dropbox.com/s/fq8jv1z0yitx0ir/03.jpg?raw=1",
+          "https://www.dropbox.com/s/1bk7uwz7zosygwc/04.jpg?raw=1",
+          "https://www.dropbox.com/s/lyng1fc0ccnxeht/05.jpg?raw=1",
+          "https://www.dropbox.com/s/nhucvepkza08jfm/06.jpg?raw=1",
+          "https://www.dropbox.com/s/e6upkdhs3bpa2xd/07.jpg?raw=1",
+          "https://www.dropbox.com/s/iwegao5x8kywaqx/08.jpg?raw=1",
+          "https://www.dropbox.com/s/xxidjyj6vlqm7hc/09.jpg?raw=1",
+          "https://www.dropbox.com/s/5o0xzhy41z41xwp/10.jpg?raw=1",
+          "https://www.dropbox.com/s/q8awjd8vwynsako/11.jpg?raw=1",
+          "https://www.dropbox.com/s/uorsq5ft0lqiyhm/12.jpg?raw=1"
+        ]
       }
     },
     "2": {
@@ -18,7 +31,19 @@
       "volume": "",
       "last_updated": "1643908568",
       "groups": {
-        "Luna": "/proxy/api/imgur/chapter/TEJd4e9"
+        "Luna": [
+          "https://www.dropbox.com/s/b11xl2f7x8o605m/01.jpg?raw=1",
+          "https://www.dropbox.com/s/50ahtx1hqcavlsm/02.jpg?raw=1",
+          "https://www.dropbox.com/s/o3vop0ks2c8ku2c/03.jpg?raw=1",
+          "https://www.dropbox.com/s/aykzrjcro1tu6s5/04.jpg?raw=1",
+          "https://www.dropbox.com/s/3rcaydtlxbyw223/05.jpg?raw=1",
+          "https://www.dropbox.com/s/4obui37vipo2na6/06.jpg?raw=1",
+          "https://www.dropbox.com/s/coj55x1i7fbpjkd/07.jpg?raw=1",
+          "https://www.dropbox.com/s/idoesx3w3qqkvv5/08.jpg?raw=1",
+          "https://www.dropbox.com/s/8uwzyuhbpj6tg3w/09.jpg?raw=1",
+          "https://www.dropbox.com/s/zoxkwe0tat7d0u3/10.jpg?raw=1",
+          "https://www.dropbox.com/s/vegfm2ompik6q0l/11.jpg?raw=1"
+        ]
       }
     },
     "3": {
