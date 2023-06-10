@@ -35,7 +35,20 @@
       "volume": "",
       "last_updated": "1655440478",
       "groups": {
-        "Luna": "/proxy/api/imgur/chapter/9vQ7u7i"
+        "Luna": [
+          "https://www.dropbox.com/s/odpv1j77ko2uxpr/01.jpg?raw=1",
+          "https://www.dropbox.com/s/52236tinr4d4bhv/02.jpg?raw=1",
+          "https://www.dropbox.com/s/h6houvlty91pa3f/03.jpg?raw=1",
+          "https://www.dropbox.com/s/34gi9fan3kayt2b/04.jpg?raw=1",
+          "https://www.dropbox.com/s/ybszkhpgmrxjqwf/05.jpg?raw=1",
+          "https://www.dropbox.com/s/2blbtaxwes4mkgm/06.jpg?raw=1",
+          "https://www.dropbox.com/s/yhbia1bhoyu3opi/07.jpg?raw=1",
+          "https://www.dropbox.com/s/l6jjtyj8e5yr8r0/08.jpg?raw=1",
+          "https://www.dropbox.com/s/l7jhdo0dswhhl01/09.jpg?raw=1",
+          "https://www.dropbox.com/s/8hv3cs7ygr242hu/10.jpg?raw=1",
+          "https://www.dropbox.com/s/vjqzedvgspgkkyx/11.jpg?raw=1",
+          "https://www.dropbox.com/s/9ag0xl8kf3n59ni/12.jpg?raw=1"
+        ]
       }
     },
     "3": {
