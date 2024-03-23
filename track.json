@@ -12,6 +12,16 @@
       "groups": {
         "": "/proxy/api/imgbox/chapter/kOBTIJSbsR"
       }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1711184553",
+      "groups": {
+        "": [
+          "/proxy/api/imgbox/chapter/kOBTIJSbsR"
+        ]
+      }
     }
   }
 }
